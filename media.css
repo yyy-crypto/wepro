@@ -1,0 +1,90 @@
+
+@media (max-width:1200px) {
+
+    .sector-text {
+        padding: 330px 0px;
+    }
+    .Icons {
+        display: none;
+    }
+}
+
+@media (max-width: 992px) {
+    .Icons {
+        display: none;
+    }
+    .nav1 {
+        display: none;
+    }
+    .sector-text {
+        padding: 330px 0px;
+    }
+}
+
+@media (max-width: 768px) {
+    .nav1 {
+        display: none;
+    }
+    .tangues {
+        display: none;
+    }
+    .sector-text {
+        padding: 330px 0px;
+    }
+    
+}
+
+@media(max-width:576px) {
+
+    .container {
+
+        
+        width: 100%;
+        
+        
+    }
+
+    .header{
+        background-image: url(./img/media\ fon.jpg);
+
+    }
+
+
+    .nav1{
+      display: none;
+    }
+    .elem3{
+        display: none;
+    }
+    .elem4{
+        display: none;
+    }
+    .ul{
+    display: none;
+   
+}
+.sector-text{
+ padding: 330px 0px;
+ 
+}
+
+.footer{
+    flex-direction: column;
+
+
+    color: #252525;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    margin-left: 100px;
+
+
+}
+
+.sector-text h2 {
+    font-size: 36px;
+}
+}
